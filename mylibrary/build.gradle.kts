@@ -42,7 +42,7 @@ publishing {
     publications {
         create<MavenPublication>("release") {
             groupId = "com.github.jagdeep-ultivic"
-            artifactId = " com.and.ploader.mylibrary"
+            artifactId = " com-and-ploader-mylibrary"
             version = "1.0.22"
         }
     }
